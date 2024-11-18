@@ -9,7 +9,7 @@ For example, the process of generating simulated LiDAR data is shown as follows.
 </blockquote>
 
 <center class = "half">
-<img src = "Pictures/MultiSensors.png"  width = "1100" height = "270" />
+<img src = "Pictures/MultiSensors.png"  width = "1100" height = "220" />
 </center>
 
 **Videos:**
