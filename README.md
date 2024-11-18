@@ -17,19 +17,19 @@ For example, the process of generating simulated LiDAR data is shown as follows.
 ***Sequence-1 (Ball & Skateboard)***
 
 <center class = "half">
-<img src = "Pictures/ball_skateboard_dataset.gif"  width = "620" height = "188" />
+<img src = "Pictures/ball_skateboard_dataset.gif" width = "1240" height = "376" />
 </center>
 
 ***Sequence-2 (Cube & Cuboid)***
 
 <center class = "half">
-<img src = "Pictures/cube_cuboid_dataset.gif"  width = "620" height = "188" />
+<img src = "Pictures/cube_cuboid_dataset.gif" width = "1240" height = "376" />
 </center>
 
 ***Sequence-3 (Subway & Car)***
 
 <center class = "half">
-<img src = "Pictures/subway_car_dataset.gif"  width = "620" height = "188" />
+<img src = "Pictures/subway_car_dataset.gif" width = "1240" height = "376" />
 </center>
 
 ***Evaluate Metrics***
