@@ -32,6 +32,12 @@ For example, the process of generating simulated LiDAR data is shown as follows.
 <img src = "Pictures/subway_car_dataset.gif" width = "1240" height = "320" />
 </center>
 
+***Sequence-4 (Dynamic Modeling Sim)***
+
+<center class = "half">
+<img src = "Pictures/DynaModelingSim.gif"  width = "400" height = "400" />
+</center>
+
 ***Evaluate Metrics***
 
 **The 3D/2D Intersection over Union (IoU)**
